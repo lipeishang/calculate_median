@@ -29,5 +29,5 @@ function findMedian(even) {
     return out;
 }
 
-jiankjklfj
+
 module.exports = calculate_median;
